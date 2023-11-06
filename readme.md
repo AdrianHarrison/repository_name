@@ -1,10 +1,10 @@
-# Single Line Cli Utility
+# Single File Cli Utility
 
 ## What is it?
 
 Barebones CLI tool for passing arguments into an equation. Basically just some function boilerplate and an [argparse](https://docs.python.org/3/library/argparse.html) wrapper.
 
-Rename anything you don't like or that doesn't make sense. More details in the `single_file_cli_utility.py` file comments about how things are actually implemented.
+Rename anything you don't like or that doesn't make sense. More details in the `single_file_cli_utility.py` file / comments about how things are actually implemented.
 
 ## Dependencies
 
